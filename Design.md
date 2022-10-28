@@ -937,3 +937,13 @@ a "no, cancel action" button
 - I ensured you use the colors, typography, icons and side navigation on the style guide to ensure consistency
 
 -----Main Goal -- Admin Design - I created a user friendly page that makes it easy to navigate the tasks of making a product unavailable or deleting a product.
+
+
+## Name: Michael Aniefiok
+
+#Description: Admin Design - Profile - Desktop 
+### Observation/Changes
+- I designed the admin profile for the desktop view, I added an edit function for profile pictures and also for saving profile information.
+
+-----Main Goal -- Improve the Admin Experience by designing a responsive screen for editing the Admins profile information and to easily save the edited information. 
+
